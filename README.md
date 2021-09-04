@@ -1,6 +1,8 @@
 # cloncoding
 ___
 
+<img width="1325" alt="스크린샷 2021-09-04 오후 10 21 12" src="https://user-images.githubusercontent.com/85220179/132095869-1b878a2e-7d5e-430a-925b-e878b31b1a20.png">
+
 ## 프로젝트 내용
 ___
 
